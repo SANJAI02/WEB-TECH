@@ -1,0 +1,28 @@
+{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+.card{
+	display: inline-block;
+}
+.container{
+	display: inline-block;
+}
+.card img{
+	height: 200px;
+}
+.btn{
+	border: 1px solid #fff;
+	padding: 3px 7px;
+	color: #fff;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+.btn:hover{
+	background-color: #fff;
+	color: #000;
+}
+.card h2{
+	color: red;
+}
